@@ -26,6 +26,6 @@ Interested in contributing? We'd love to have you on board! Whether it's helping
 
 ## 📞 Contact Us
 
-Need help or have questions? Don't hesitate to contact us! You can reach out to us via our [official website](http://pixelworld.com/contact-us).
+Need help or have questions? Don't hesitate to contact us! You can reach out to us via our [official website](https://pixelworld.gg/).
 
 Thank you for being part of the PixelWorld community!
